@@ -5,5 +5,6 @@ public class Test02 {
         System.out.println("ncvt");
         System.out.println("666");
         System.out.println("合并");
+        System.out.println("key");
     }
 }
